@@ -1,0 +1,16 @@
+{
+  "identity_checks": 22275,
+  "response_profiles": 2025,
+  "naive_merge": {
+    "exact": 10,
+    "incorrect": 30
+  },
+  "correlation": {
+    "exact": 2,
+    "marginal": 0
+  },
+  "cpu_seconds": 0.011299823999999958,
+  "wall_seconds": 0.011299469000050522,
+  "peak_rss_kib": 92588,
+  "status": "passed_finite_checks_not_a_general_proof"
+}
